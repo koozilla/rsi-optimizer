@@ -1,0 +1,125 @@
+{
+  "updatedAt": "2026-04-12",
+  "stocks": [
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "sector": "Technology",
+      "price": 213.55,
+      "change": 1.23,
+      "changePercent": 0.58,
+      "rsi14": 52.3,
+      "volume": "45.2M",
+      "week52High": 237.23,
+      "week52Low": 164.08
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corp.",
+      "sector": "Technology",
+      "price": 415.20,
+      "change": -2.10,
+      "changePercent": -0.50,
+      "rsi14": 48.7,
+      "volume": "22.1M",
+      "week52High": 468.35,
+      "week52Low": 344.79
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corp.",
+      "sector": "Technology",
+      "price": 875.40,
+      "change": 18.60,
+      "changePercent": 2.17,
+      "rsi14": 68.2,
+      "volume": "38.5M",
+      "week52High": 974.00,
+      "week52Low": 461.22
+    },
+    {
+      "symbol": "AMD",
+      "name": "Advanced Micro Devices",
+      "sector": "Technology",
+      "price": 158.32,
+      "change": -3.45,
+      "changePercent": -2.13,
+      "rsi14": 38.5,
+      "volume": "55.8M",
+      "week52High": 227.30,
+      "week52Low": 117.37
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla Inc.",
+      "sector": "Consumer Discretionary",
+      "price": 248.75,
+      "change": 5.90,
+      "changePercent": 2.43,
+      "rsi14": 61.4,
+      "volume": "78.2M",
+      "week52High": 299.29,
+      "week52Low": 138.80
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc.",
+      "sector": "Communication Services",
+      "price": 178.90,
+      "change": 0.45,
+      "changePercent": 0.25,
+      "rsi14": 50.1,
+      "volume": "18.3M",
+      "week52High": 207.05,
+      "week52Low": 140.53
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms Inc.",
+      "sector": "Communication Services",
+      "price": 520.10,
+      "change": 8.30,
+      "changePercent": 1.62,
+      "rsi14": 71.8,
+      "volume": "14.9M",
+      "week52High": 589.35,
+      "week52Low": 326.01
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.com Inc.",
+      "sector": "Consumer Discretionary",
+      "price": 192.45,
+      "change": -1.80,
+      "changePercent": -0.93,
+      "rsi14": 44.6,
+      "volume": "31.7M",
+      "week52High": 229.45,
+      "week52Low": 151.61
+    },
+    {
+      "symbol": "JPM",
+      "name": "JPMorgan Chase & Co.",
+      "sector": "Financials",
+      "price": 220.30,
+      "change": 2.15,
+      "changePercent": 0.99,
+      "rsi14": 55.9,
+      "volume": "9.8M",
+      "week52High": 245.21,
+      "week52Low": 174.53
+    },
+    {
+      "symbol": "PLTR",
+      "name": "Palantir Technologies",
+      "sector": "Technology",
+      "price": 24.85,
+      "change": -0.62,
+      "changePercent": -2.43,
+      "rsi14": 29.3,
+      "volume": "62.4M",
+      "week52High": 45.00,
+      "week52Low": 14.21
+    }
+  ]
+}
