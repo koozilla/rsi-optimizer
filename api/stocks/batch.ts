@@ -3,7 +3,7 @@ import {
   fetchStockData,
   calculateRSI,
   computeVelocity,
-} from "../_lib/stock";
+} from "../_lib/stock.js";
 
 export default async function handler(req: VercelRequest, res: VercelResponse) {
   if (req.method !== "POST") {
