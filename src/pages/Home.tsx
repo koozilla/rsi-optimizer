@@ -57,7 +57,6 @@ const POPULAR_STOCKS = [
   { symbol: "INTC", name: "Intel Corporation", category: "Moderate Volatility" },
   { symbol: "LRCX", name: "Lam Research Corp.", category: "High Volatility" },
   { symbol: "SMH", name: "VanEck Semiconductor ETF", category: "High Volatility" },
-  { symbol: "SOXL", name: "Direxion Daily Semi Bull 3X", category: "High Volatility" },
   { symbol: "SHOP", name: "Shopify Inc.", category: "High Volatility" },
   { symbol: "DIS", name: "The Walt Disney Company", category: "Moderate Volatility" },
   { symbol: "NOW", name: "ServiceNow, Inc.", category: "High Volatility" },
