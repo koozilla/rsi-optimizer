@@ -64,6 +64,8 @@ const POPULAR_STOCKS = [
   { symbol: "SMR", name: "NuScale Power Corp.", category: "High Volatility" },
   { symbol: "BMNR", name: "Bitmine Immersion Technologies", category: "High Volatility" },
   { symbol: "CRCL", name: "Circle Internet Financial", category: "High Volatility" },
+  { symbol: "ETH", name: "Ethereum", category: "High Volatility" },
+  { symbol: "ONDO", name: "Ondo Finance", category: "High Volatility" },
 ];
 
 export default function Home() {
