@@ -65,7 +65,6 @@ const POPULAR_STOCKS = [
   { symbol: "BMNR", name: "Bitmine Immersion Technologies", category: "High Volatility" },
   { symbol: "CRCL", name: "Circle Internet Financial", category: "High Volatility" },
   { symbol: "ETH", name: "Ethereum", category: "High Volatility" },
-  { symbol: "ONDO", name: "Ondo Finance", category: "High Volatility" },
   { symbol: "TEAM", name: "Atlassian Corporation", category: "High Volatility" },
   { symbol: "BTC", name: "Bitcoin", category: "High Volatility" },
 ];
