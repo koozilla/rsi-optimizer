@@ -1,0 +1,9 @@
+{
+  "buildCommand": "vite build",
+  "outputDirectory": "dist",
+  "rewrites": [
+    { "source": "/api/stocks/batch", "destination": "/api/stocks/batch" },
+    { "source": "/api/stock/:symbol", "destination": "/api/stock/[symbol]" },
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}

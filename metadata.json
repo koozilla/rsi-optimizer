@@ -1,0 +1,5 @@
+{
+  "name": "RSI Strategy Optimizer",
+  "description": "Compute RSI 14, simulate tiered trading strategies, and find optimal buy/sell thresholds for any stock.",
+  "requestFramePermissions": []
+}
