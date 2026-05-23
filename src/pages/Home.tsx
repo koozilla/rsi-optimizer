@@ -63,6 +63,8 @@ const POPULAR_STOCKS = [
   { symbol: "NOW", name: "ServiceNow, Inc.", category: "High Volatility" },
   { symbol: "NUKS", name: "NuScale Power", category: "High Volatility" },
   { symbol: "SMR", name: "NuScale Power Corp.", category: "High Volatility" },
+  { symbol: "BMNR", name: "Bitmine Immersion Technologies", category: "High Volatility" },
+  { symbol: "CRCL", name: "Circle Internet Financial", category: "High Volatility" },
 ];
 
 export default function Home() {
