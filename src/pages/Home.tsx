@@ -68,6 +68,8 @@ const POPULAR_STOCKS = [
   { symbol: "BTC", name: "Bitcoin", category: "High Volatility" },
   { symbol: "SPCX", name: "Space Exploration Technologies", category: "High Volatility" },
   { symbol: "CELH", name: "Celsius Holdings Inc", category: "High Volatility" },
+  { symbol: "MRVL", name: "Marvell Technology Inc", category: "High Volatility" },
+  { symbol: "MCD", name: "McDonald's Corp", category: "Moderate Volatility" },
 ];
 
 export default function Home() {
